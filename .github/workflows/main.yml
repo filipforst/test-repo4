@@ -51,7 +51,7 @@ on:
 env:
   PROJECT_ID: trans-jigsaw-407417
   GAR_LOCATION: europe-central2
-  SERVICE: githubcontainer
+  SERVICE: dummy-image
   REGION: europe-central2
 
 jobs:
